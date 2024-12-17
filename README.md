@@ -1,7 +1,3 @@
-Here’s a GitHub-friendly introduction with the two language options you requested. The content will link to the English or French version of the tutorial.
-
----
-
 # PayPal Integration with Laravel & React.js
 
 This repository contains a step-by-step guide for integrating PayPal with a Laravel API backend and a React.js frontend. We’ll be using the `srmklive/paypal` package for the backend and `@paypal/react-paypal-js` for the frontend to handle payments.
